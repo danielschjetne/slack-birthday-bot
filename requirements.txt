@@ -1,0 +1,7 @@
+os
+slack_sdk
+dotenv
+datetime
+attr
+csv
+os
